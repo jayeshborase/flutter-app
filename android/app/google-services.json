@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "731691867839",
+    "firebase_url": "https://encoded-rider-273706.firebaseio.com",
+    "project_id": "encoded-rider-273706",
+    "storage_bucket": "encoded-rider-273706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731691867839:android:dc5364596d047ae3e6700a",
+        "android_client_info": {
+          "package_name": "com.example.flutternowboylocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731691867839-7e3eto43gvugbvkrf5tehlncb2u02rv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFDA5dGeoVAL8WE29sG04Kgt0wmX6YNDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731691867839-7e3eto43gvugbvkrf5tehlncb2u02rv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
